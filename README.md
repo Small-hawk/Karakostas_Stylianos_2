@@ -1,2 +1,2 @@
 # Karakostas_Stylianos_2
- Second exersise Chatzigeorgiou Alexandros
+ Second exersise assigned by Chatzigeorgiou Alexandros UoM Applied Informatics.
